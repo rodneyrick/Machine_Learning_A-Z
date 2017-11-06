@@ -1,0 +1,9 @@
+Conclusion of Part 4 - Clustering
+Section 22, Lecture 147
+In this Part 4 you learned about 2 clustering models: K-Means and Hierarchical Clustering.
+
+Please find here a cheat-sheet that gives you all the pros and the cons of these two clustering models.
+
+Congratulations for having completed Part 4, and let's move on the next part of the journey:
+
+Part 5 - Association Rule Learning

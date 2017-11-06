@@ -1,0 +1,41 @@
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+
+
+CNN in R
+Section 32, Lecture 251
+Hello students,
+
+hope you enjoy your Machine Learning journey so far.
+
+In the previous section, we used the powerful H2O package in R to build an ANN for a Business Problem.
+
+If you use H2O to build a CNN for Computer Vision, H2O comes with a framework called Deep Water.
+
+However, this Deep Water framework is still in early stage, and its final version hasn't be released yet. It is preferable to wait for this final version before making some tutorials about CNN in R. Therefore I will directly move on to the last two parts of this course, Part 9 - Dimensionality Reduction and Part 10 - k-Fold Cross Validation, Gradient Boosting & XGBoost. Then I will go back to this Deep Water framework as soon as it is ready.
+
+However, it would be extremely good practice for you to already play around with this Deep Water framework. If interested, you will find all the informations you need on this link (https://github.com/h2oai/deepwater).
+
+In conclusion, if you want to build CNN models for Computer Vision, I would recommend to use Python. R is an amazing programming language for highly advanced statistics, but when it comes to Deep Learning for Computer Vision, Python is more mature.
+
+Best regards,
+
+Hadelin
+
+
+
+Links of this article:
+
+H20
+(https://www.h2o.ai/)
+
+Deep Water
+(https://www.h2o.ai/deep-water/)
+
+CNN with H2O 
+(https://community.h2o.ai/questions/452/rnncnn-with-h2o.html)
+
+When will Deep Water be released for it's final version?
+(https://community.h2o.ai/questions/325/when-will-deep-water-be-released-for-its-first-ver.html)
+
+Deep Water in GitHub
+(https://github.com/h2oai/deepwater)

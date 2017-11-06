@@ -1,0 +1,11 @@
+
+Stochastic Gradient Descent
+
+Part 1
+https://iamtrask.github.io/2015/07/12/basic-python-network/
+
+Part 2
+https://iamtrask.github.io/2015/07/27/python-network-part2/
+
+Michael Nielsen (2015)
+http://neuralnetworksanddeeplearning.com/chap2.html

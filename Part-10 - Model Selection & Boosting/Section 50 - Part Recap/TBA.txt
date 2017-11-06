@@ -1,0 +1,46 @@
+***YOUR SPECIAL BONUS***
+Section 40, Lecture 277
+Hey Data Scientist,
+
+Congrats on completing all (or part) of the Machine Learning course!
+
+(Note: if you don't like reading long texts, then skip to the bottom. Your bonus is there!)
+
+Such a big course, right? What did you like most about it? I liked the SVM tutorials and the Kernel trick. That was really cool :)
+
+So.... the obvious question is what's next?
+
+We've got some good news for you!
+
+Not so long ago Hadelin and I ran Kickstarter campaign to create what we believe is the World's most disruptive course on Deep Learning.
+
+And that's how we created Deep Learning A-Z™ (https://www.udemy.com/deeplearning/?couponCode=YESDATA)
+
+In side this course you get 6 modules:
+
+ - Artificial Neural Networks (like in the ML course + advanced tutorials)
+ - Convolutional Neural Networks (like in the ML course + advanced tutorials)
+ - Recurrent Neural Networks
+ - Self-Organizing Maps
+ - Boltzmann Machines
+ - AutoEncoders
+
+Just like in the Machine Learning course, each module comes with easy-to-digest intuition tutorials and very hands-on practical applications solving Real-World challenges. Note: this course is Python-only.
+
+This is the fastest way to get up-to-speed with one of the most powerful technologies in the World Right now!
+
+So what are you waiting for? 
+
+Join us inside Deep Learning A-Z™ and discover the World of Artificial Intelligence!
+
+https://www.udemy.com/deeplearning/?couponCode=YESDATA
+
+Use this coupon-coded link to get an exclusive 90% when you sign up.
+
+And we'll see you in class...
+
+Until next time, happy analyzing :)
+
+Cheers,
+
+Kirill & Hadelin
